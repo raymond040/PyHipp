@@ -1,0 +1,4 @@
+Matplotlib is building the font cache using fc-list. This may take a moment.
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+FileNotFoundError: [Errno 2] No such file or directory: 'sessioneye'
